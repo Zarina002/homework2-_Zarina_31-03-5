@@ -1,0 +1,33 @@
+footer h5 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+footer {
+    height: 80px;
+    background-color: #000;
+}
+
+header {
+    background-color: teal;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+header a {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.active {
+    color: deeppink;
+}
